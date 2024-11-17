@@ -1,0 +1,12 @@
+# WordPress core files
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/debug.log
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+*.log

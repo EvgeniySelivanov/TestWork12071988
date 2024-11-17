@@ -1,0 +1,13 @@
+.city-weather-selector-label {
+  color: green;
+  font-weight: 700;
+}
+#city-weather-widget {
+  min-height: 180px;
+}
+#weather-output {
+  color: black;
+  color: rgb(6, 36, 169);
+  font-weight: 700;
+  font-size: 20px;
+}
