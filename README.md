@@ -1,5 +1,6 @@
 ## Hello!This is my test project.
 ### Information from wp-config:
+WP version 6.7
 define( 'DB_NAME', 'abelo' );
 
 /** Database username */
